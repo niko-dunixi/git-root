@@ -1,0 +1,9 @@
+[package]
+name = "git-root"
+version = "0.1.0"
+authors = ["Paul Freakn Baker <paul.nelson.baker@gmail.com>"]
+edition = "2018"
+license = "gplv3"
+
+[dependencies]
+failure = "0.1.8"
