@@ -1,5 +1,4 @@
 extern crate failure;
-use failure::Error;
 use std::process::{Command};
 use std::str;
 

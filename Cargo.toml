@@ -3,7 +3,17 @@ name = "git-root"
 version = "0.1.0"
 authors = ["Paul Freakn Baker <paul.nelson.baker@gmail.com>"]
 edition = "2018"
-license = "gplv3"
+license = "GPL-3.0-only"
+homepage = "https://github.com/paul-nelson-baker/git-root"
+repository = "https://github.com/paul-nelson-baker/git-root"
+description = "A humble wrapper that makes finding the git project root directory trivial and installable."
+categories = [
+  "command-line-utilities",
+]
+keywords = [
+  "cli",
+  "git",
+]
 
 [dependencies]
 failure = "0.1.8"
